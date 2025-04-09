@@ -11,10 +11,6 @@
   "dependencies": {
     "@nuxt/image": "^1.8.1"
   },
-  "devDependencies": {
-    "nuxt": "^3.16.2",
-    "vuetify": "^3.6.11"
-  },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
